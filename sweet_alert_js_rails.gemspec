@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = SweetAlertJsRails::VERSION
   spec.authors       = ["Sahidur Rahman Suman"]
   spec.email         = ["suman5040@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{Sweet alert ruby gem is a beautiful replacement for JavaScript's "Alert"}
+  spec.description   = %q{Sweet alert ruby gem is a beautiful replacement for JavaScript's "Alert"}
+  spec.homepage      = "https://github.com/suman5040/sweet_alert_js_rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
