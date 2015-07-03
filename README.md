@@ -1,6 +1,6 @@
 # SweetAlertJsRails
 
-TODO: Write a gem description
+ Sweet alert ruby gem is a beautiful replacement for JavaScript's alert
 
 ## Installation
 
